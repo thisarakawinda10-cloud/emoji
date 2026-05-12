@@ -5,7 +5,7 @@ A directory of Emojis in 112x112 pixel PNG format, from Twemoji, Openmoji, Noto,
  - Building the image list with `populate.php` requires `php-cli`. No extensions are required.  
  
  - Inkscape is required to generate PNG images.  
-
+   
 ## Resource Usage
 
 ### List
